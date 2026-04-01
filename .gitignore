@@ -11,3 +11,13 @@ __pycache__/
 *.avi
 *.flv
 frame_compare.png
+build/
+dist/
+*.spec
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.idea/
+.vscode/
+Thumbs.db
+.DS_Store
