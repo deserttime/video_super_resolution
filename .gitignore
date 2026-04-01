@@ -1,0 +1,13 @@
+﻿.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.tmp
+*.log
+*.mp4
+*.mov
+*.mkv
+*.avi
+*.flv
+frame_compare.png
